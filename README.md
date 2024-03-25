@@ -8,7 +8,7 @@ I'm pursuing a Post-Graduation in Development in Advanced Computing (PG-DAC) at 
 
 * 🌍  I'm based in Pune, Maharashtra, India
 * ✉️  You can contact me at [omkarware003@gmail.com](mailto:omkarware003@gmail.com)
-* 🧠  I'm pursuing CDAC.
+* 🧠  I've completed CDAC.
 * ⚡  There is a high chance I might be coding something right now ( in my mind XD )
 
 ### Skills
