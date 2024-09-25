@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I'm pursuing a Post-Graduation in Development in Advanced Computing (PG-DAC) at CDAC IET, Pune.
+I'have completed my Post-Graduation in Development in Advanced Computing (PG-DAC) form CDAC Pune.
 
 * 🌍  I'm based in Pune, Maharashtra, India
 * ✉️  You can contact me at [omkarware003@gmail.com](mailto:omkarware003@gmail.com)
