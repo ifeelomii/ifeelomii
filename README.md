@@ -78,31 +78,12 @@
 
 ---
 
-### 🔗 Connect With Me
-
-<p align="left">
-<a href="https://github.com/ifeelomii" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
-<a href="https://www.linkedin.com/in/omkar-ware-003abc003" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/ifeelomii" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
-<a href="https://www.linkedin.com/in/omkar-ware-003abc003" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
-</p>
-
----
-
 ### 📫 Contact
 
-📧 **omkarware003@gmail.com**
+- 📧 Email: [Email Omkar](mailto:omkarware003@gmail.com)
+- - 📧 Email: [Email Omkar](omkarware003@gmail.com)
+- 💻 GitHub: [Omkar's Github Profile](https://github.com/ifeelomii)
+- 🔗 LinkedIn: [Omkar's Linked In Profile](https://www.linkedin.com/in/omkar-ware/)
 
 ---
 
