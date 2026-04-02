@@ -82,10 +82,19 @@
 
 <p align="left">
 <a href="https://github.com/ifeelomii" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </a>
-<a href="https://https://www.linkedin.com/in/omkar-ware/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30"/>
+<a href="https://www.linkedin.com/in/omkar-ware-003abc003" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/ifeelomii" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</a>
+<a href="https://www.linkedin.com/in/omkar-ware-003abc003" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </a>
 </p>
 
