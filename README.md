@@ -41,13 +41,13 @@
 - Heap Dump Analysis (MAT)
 - Logging & Production Debugging
 
-#### 🌐 Frontend (Working Knowledge)
+#### 🌐 Frontend
 - React.js
 - HTML, CSS, Bootstrap
 
 ---
 
-### 📦 Work Experience @ Koorier
+### 📦 Work Experience @ Koorier Inc
 
 - Improved critical API response time by **90%** by eliminating N+1 queries, optimizing SQL queries, and refactoring service-layer logic
 - Diagnosed and resolved **production memory issues** using heap dumps and MAT, improving runtime stability and achieving **99.9% uptime**
@@ -84,7 +84,7 @@
 <a href="https://github.com/ifeelomii" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" height="30"/>
 </a>
-<a href="https://www.linkedin.com/in/omkar-ware-003abc003" target="_blank">
+<a href="https://https://www.linkedin.com/in/omkar-ware/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30"/>
 </a>
 </p>
