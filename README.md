@@ -62,6 +62,21 @@
 
 ---
 
+### 🚀 Key Highlights
+
+- ⚡ Reduced API latency by **90%** via query optimization and service refactoring  
+- 📈 Achieved **99.9% uptime** by resolving production memory issues  
+- 🔁 Built **idempotent, retry-safe workflows** for distributed systems  
+- 🗄️ Optimized PostgreSQL queries handling **5,000+ records efficiently**
+
+---
+
+### 💼 What I Work On
+
+- Backend systems for logistics (routing, ETA, delivery lifecycle)  
+- Event-driven architectures and scalable API design  
+- Performance tuning and production debugging  
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -70,11 +85,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ifeelomii">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifeelomii&theme=react-dark&hide_border=true"/>
   </a>
-</p>
+</p> -->
 
 ---
 
