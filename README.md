@@ -1,48 +1,56 @@
 <h1 align="center">Hi 👋, I'm Omkar Ware</h1>
-<h3 align="center">Full Stack Developer | Backend-Focused Engineer</h3>
+<h3 align="center">Backend-Focused Full Stack Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 Full Stack Developer with strong focus on **backend systems & scalable architecture**
+- 🚀 Backend engineer specializing in **scalable systems & API design**
 - 🏢 Currently working at **Koorier Inc** (Logistics Domain)
-- 📦 Building systems for **package lifecycle, routing, and delivery management**
-- 🗺️ Experience working with **Here Maps APIs** for routing & geospatial operations
-- ⚡ Exploring **event-driven systems using Kafka**
+- 📦 Building systems for **package lifecycle, routing, and delivery workflows**
+- 🗺️ Hands-on experience with **Here Maps APIs** for routing & geospatial logic
+- ⚡ Working with **event-driven architecture (Kafka - basic usage)**
 - 🎓 PG-DAC (Post Graduation in Advanced Computing) from CDAC Pune
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages
-Java | JavaScript | C++ | C# | Dart
+#### 💻 Core Languages
+- Java
+- JavaScript
 
 #### ⚙️ Backend
-Spring Boot | Node.js | Express.js | REST APIs | Microservices | Kafka (Basic)
+- Spring Boot
+- REST APIs
+- Microservices Architecture
+- Event-Driven Systems (Kafka - basic)
 
-#### 🌐 Frontend
-React.js | Redux | HTML5 | CSS3 | Bootstrap | jQuery
+#### 🌐 Frontend (Working Knowledge)
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
 
 #### 🗄️ Databases
-MySQL | MongoDB
+- MySQL
 
-#### ☁️ DevOps & Tools
-AWS | Docker | Git | Postman | Linux | Selenium
-
-#### 📱 Mobile
-Flutter
+#### ☁️ Tools & DevOps
+- Docker
+- AWS (basic usage)
+- Git
+- Postman
+- Linux
 
 ---
 
 ### 📦 Current Work @ Koorier
 
-- Designed and developed **package event-driven workflows** (ORDER_CREATED, CONFIRMED, etc.)
-- Implemented **event publishing & consumption architecture**
-- Worked on **driver/rider app logic**, similar to real-time logistics platforms
-- Integrated **mapping & routing services using Here Maps**
-- Improved system reliability by exploring **Kafka over in-memory event systems**
+- Designed **event-driven package workflows** (ORDER_CREATED, CONFIRMED, etc.)
+- Implemented **publisher-consumer model** for system events
+- Worked on **driver/rider logistics system logic**
+- Integrated **Here Maps APIs** for routing and distance calculations
+- Improved system reliability by evaluating **Kafka over in-memory event handling**
 
 ---
 
@@ -81,6 +89,6 @@ Flutter
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Focus
 
-I enjoy building **real-world scalable systems**, especially in logistics and mobility 🚚
+Building **scalable backend systems** in logistics, mobility, and real-time applications 🚚
