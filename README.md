@@ -80,8 +80,7 @@
 
 ### 📫 Contact
 
-- 📧 Email: [Email Omkar](mailto:omkarware003@gmail.com)
-- - 📧 Email: [Email Omkar](omkarware003@gmail.com)
+- 📧 Email: ***omkarware003@gmail.com***
 - 💻 GitHub: [Omkar's Github Profile](https://github.com/ifeelomii)
 - 🔗 LinkedIn: [Omkar's Linked In Profile](https://www.linkedin.com/in/omkar-ware/)
 
